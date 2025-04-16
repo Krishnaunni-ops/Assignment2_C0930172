@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "firstName": "Krishna",
+    "lastName": "Krishna",
+    "age": 29,
+    "gender": "male"
+  },
+  {
+    "id": "2",
+    "firstName": "Reetu",
+    "lastName": "Singh",
+    "age": 30,
+    "gender": "female"
+  },
+  {
+    "id": "3",
+    "firstName": "Rocky",
+    "lastName": "Singh",
+    "age": 26,
+    "gender": "male"
+  },
+  {
+    "id": "4",
+    "firstName": "Aditi",
+    "lastName": "Kapoor",
+    "age": 32,
+    "gender": "female"
+  }
+]
